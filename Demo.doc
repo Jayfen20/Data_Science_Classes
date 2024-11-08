@@ -1,0 +1,10 @@
+Python is Easy and fun to learn
+python is used for data analysis, machine learning etc
+
+# declear variable to hold any int value
+# declear variable to hold any float value
+# declear variable to hold any string value
+
+price1 = 85000
+price2 = 15000
+litre1 = 45
